@@ -1,6 +1,7 @@
 # GhostWatch - ESP8266 'Ghost' Wi-Fi (Network Cloaking) + Intrusion Detection
 
 ![Meme](https://i.imgflip.com/2wifvo.jpg)
+
 *“When your ESP8266 goes stealth mode and catches Wi-Fi intruders off guard.”*
 
 ## Overview
